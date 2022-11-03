@@ -1,0 +1,34 @@
+F:\Visual Studio\.net\kiemtra\kiemtra\bin\Debug\kiemtra.exe.config
+F:\Visual Studio\.net\kiemtra\kiemtra\bin\Debug\kiemtra.exe
+F:\Visual Studio\.net\kiemtra\kiemtra\bin\Debug\kiemtra.pdb
+F:\Visual Studio\.net\kiemtra\kiemtra\bin\Debug\EntityFramework.dll
+F:\Visual Studio\.net\kiemtra\kiemtra\bin\Debug\EntityFramework.SqlServer.dll
+F:\Visual Studio\.net\kiemtra\kiemtra\bin\Debug\EntityFramework.xml
+F:\Visual Studio\.net\kiemtra\kiemtra\bin\Debug\EntityFramework.SqlServer.xml
+F:\Visual Studio\.net\kiemtra\kiemtra\obj\Debug\kiemtra.csproj.AssemblyReference.cache
+F:\Visual Studio\.net\kiemtra\kiemtra\obj\Debug\kiemtra.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio\.net\kiemtra\kiemtra\obj\Debug\kiemtra.Form1.resources
+F:\Visual Studio\.net\kiemtra\kiemtra\obj\Debug\kiemtra.Properties.Resources.resources
+F:\Visual Studio\.net\kiemtra\kiemtra\obj\Debug\kiemtra.csproj.GenerateResource.cache
+F:\Visual Studio\.net\kiemtra\kiemtra\obj\Debug\kiemtra.csproj.CoreCompileInputs.cache
+F:\Visual Studio\.net\kiemtra\kiemtra\obj\Debug\kiemtra.csproj.CopyComplete
+F:\Visual Studio\.net\kiemtra\kiemtra\obj\Debug\kiemtra.exe
+F:\Visual Studio\.net\kiemtra\kiemtra\obj\Debug\kiemtra.pdb
+F:\Visual Studio\.net\kiemtra\kiemtra\obj\Debug\kiemtra.frmNhom.resources
+F:\Visual Studio\.net\kiemtra\kiemtra\obj\Debug\kiemtra.frmSinhVien.resources
+D:\bb\TaiLieu\net\net\kiemtra\bin\Debug\kiemtra.exe.config
+D:\bb\TaiLieu\net\net\kiemtra\bin\Debug\kiemtra.exe
+D:\bb\TaiLieu\net\net\kiemtra\bin\Debug\kiemtra.pdb
+D:\bb\TaiLieu\net\net\kiemtra\bin\Debug\EntityFramework.xml
+D:\bb\TaiLieu\net\net\kiemtra\bin\Debug\EntityFramework.SqlServer.xml
+D:\bb\TaiLieu\net\net\kiemtra\obj\Debug\kiemtra.csproj.AssemblyReference.cache
+D:\bb\TaiLieu\net\net\kiemtra\obj\Debug\kiemtra.csproj.SuggestedBindingRedirects.cache
+D:\bb\TaiLieu\net\net\kiemtra\obj\Debug\kiemtra.Form1.resources
+D:\bb\TaiLieu\net\net\kiemtra\obj\Debug\kiemtra.frmNhom.resources
+D:\bb\TaiLieu\net\net\kiemtra\obj\Debug\kiemtra.frmSinhVien.resources
+D:\bb\TaiLieu\net\net\kiemtra\obj\Debug\kiemtra.Properties.Resources.resources
+D:\bb\TaiLieu\net\net\kiemtra\obj\Debug\kiemtra.csproj.GenerateResource.cache
+D:\bb\TaiLieu\net\net\kiemtra\obj\Debug\kiemtra.csproj.CoreCompileInputs.cache
+D:\bb\TaiLieu\net\net\kiemtra\obj\Debug\kiemtra.csproj.CopyComplete
+D:\bb\TaiLieu\net\net\kiemtra\obj\Debug\kiemtra.exe
+D:\bb\TaiLieu\net\net\kiemtra\obj\Debug\kiemtra.pdb
